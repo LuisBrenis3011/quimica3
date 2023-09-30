@@ -1,2 +1,2 @@
 # quimica3
-Ejercicios  PC1
+Ejercicios  de todas las PC
